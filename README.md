@@ -1,7 +1,9 @@
 # Project_PHP_E-commerce_App
 Project Description: Online E-commerce Shop Development
+
 Overview
-This project involves the creation of a commercial, transactional web application utilizing PHP and MySQL technologies. The core functionality revolves around an online e-commerce shop that allows users to explore a variety of products, add selections to a shopping cart, and proceed with order placements. Although the project will simulate the shopping and order process, it will not incorporate an actual payment transaction system.
+
+This project involves the creation of a commercial, transactional web application utilizing PHP and MySQL technologies. The core functionality revolves around an online e-commerce shop that allows users to explore a variety of products, add selections to a shopping cart, and proceed with order placements. Although the project will simulate the shopping and ordering process, it will not incorporate an actual payment transaction system.
 
 Design Freedom and Product Offerings
 Participants are granted the liberty to decide on the shop's overall design, theme, and the range of products available for sale, with the requirement that the store must offer at least six different products.
