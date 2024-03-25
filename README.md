@@ -31,7 +31,9 @@ A dynamic product listing page with product details and the ability to add produ
 A shopping cart page for viewing and modifying cart contents, including subtotal display.
 An order page for reviewing the cart, entering addresses, calculating the order total, and placing an order.
 An order confirmation page for reviewing placed orders.
+
 Object Modelization
+
 The project must model and store representations of the following entities within the database:
 
 Customer (ID, username, password hash, creation date)
